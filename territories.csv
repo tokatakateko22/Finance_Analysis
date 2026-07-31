@@ -1,0 +1,11 @@
+territory_id,territory_name,parent_territory_id
+1,Egypt,
+2,Cairo,1.0
+3,Giza,2.0
+4,Dokki,3.0
+5,Alexandria,1.0
+6,Alx,1.0
+7,El Delta,1.0
+8,Upper Egypt,1.0
+9,Direct Sales,1.0
+10,El Bahira,1.0

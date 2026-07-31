@@ -1,0 +1,105 @@
+employee_id,employee_code,full_name,email,phone,hire_date,manager_id,hierarchy_level_id,territory_id,employment_status,created_at
+1,EMP001,Ahmed Hassan,ahmed.hassan@company.com,01000000000,2020-01-01,,1,1,Active,2026-05-01
+2,EMP002,Mostafa Fathy,mostafa.fathy@company.com,01000000001,2021-01-01,1.0,2,1,Active,2026-05-01
+3,EMP003,Amr Abd El-Monsef,amr.monsef@company.com,01000000002,2021-01-01,1.0,2,1,Active,2026-05-01
+4,EMP004,Hesham  Ali Mohamed Mohamed,hesham.mohamed@company.com,01000000003,2021-01-01,1.0,2,9,Active,2026-05-01
+5,EMP005,Rowad  Mahmoud Gad Abd Alla,rowadmahmoudgadabdal@company.com,0100000005,2022-01-01,2.0,3,6,Active,2026-05-01
+6,EMP006,Ahmed  Nabil Ibrahim Amin Mansour,ahmednabilibrahimami@company.com,0100000006,2022-01-01,2.0,3,6,Active,2026-05-01
+7,EMP007,Youssef  Mohamed Sayed Taie,youssefmohamedsayedt@company.com,0100000007,2022-01-01,2.0,3,7,Active,2026-05-01
+8,EMP008,Mohamed Ibrahim Ismail Mohamed,mohamedibrahimismail@company.com,0100000008,2022-01-01,2.0,3,10,Active,2026-05-01
+9,EMP009,Ahmed  Mabrouk Masoud Hasanein,ahmedmabroukmasoudha@company.com,0100000009,2022-01-01,3.0,3,3,Active,2026-05-01
+10,EMP010,Eslam  Ahmed Abd Ellah Ahmed,eslamahmedabdellahah@company.com,0100000010,2022-01-01,3.0,3,3,Active,2026-05-01
+11,EMP011,Mahmoud Mohamed AbdelAzim Hassan,mahmoudmohamedabdela@company.com,0100000011,2022-01-01,3.0,3,2,Active,2026-05-01
+12,EMP012,Mohamed Abdel Raman Abdel Raman Abdel Hamid,mohamedabdelramanabd@company.com,0100000012,2022-01-01,3.0,3,2,Active,2026-05-01
+13,EMP013,Ashraf Mamdouh Mahmoud,ashrafmamdouhmahmoud@company.com,0100000013,2022-01-01,3.0,3,2,Active,2026-05-01
+14,EMP014,Mohamed Ahmed Hassan Mohamed Ibrahim,mohamedahmedhassanmo@company.com,0100000014,2022-06-01,5.0,4,6,Active,2026-05-01
+15,EMP015,Ahmed Mohamed Ahmed Gharib Zeyada,ahmedmohamedahmedgha@company.com,0100000015,2022-06-01,5.0,4,6,Active,2026-05-01
+16,EMP016,Hazem Semman Ali Eyasean Abd El Rahman,hazemsemmanalieyasea@company.com,0100000016,2022-06-01,5.0,4,6,Active,2026-05-01
+17,EMP017,Mohamed Farahat Wefky Hussein,mohamedfarahatwefkyh@company.com,0100000017,2022-06-01,6.0,4,6,Active,2026-05-01
+18,EMP018,Ahmed  Ali Mahmoud El Shaal,ahmedalimahmoudelsha@company.com,0100000018,2022-06-01,2.0,4,8,Active,2026-05-01
+19,EMP019,Shihab Ahmed Nabih El Sayed Ahmed,shihabahmednabihelsa@company.com,0100000019,2022-06-01,7.0,4,7,Active,2026-05-01
+20,EMP020,Mohamed Fawzy Abdelwahed Ateya,mohamedfawzyabdelwah@company.com,0100000020,2022-06-01,7.0,4,7,Active,2026-05-01
+21,EMP021,Hossam Mostafa Kamel Meselhy Badawy,hossammostafakamelme@company.com,0100000021,2022-06-01,8.0,4,10,Active,2026-05-01
+22,EMP022,Mirhan Yehia Mohamed El Sayed,mirhanyehiamohamedel@company.com,0100000022,2022-06-01,4.0,4,9,Active,2026-05-01
+23,EMP023,Sally Mohamed Ibrahim,sallymohamedibrahim@company.com,0100000023,2022-06-01,4.0,4,9,Active,2026-05-01
+24,EMP024,Mahmoud Fawzy Abd El Kader El Kilany,mahmoudfawzyabdelkad@company.com,0100000024,2022-06-01,4.0,4,9,Active,2026-05-01
+25,EMP025,Mohamed  Ahmed Mohamed Ibrahim,mohamedahmedmohamedi@company.com,0100000025,2022-06-01,9.0,4,3,Active,2026-05-01
+26,EMP026,Abd Alla Ali Abd El Rahman Abd El Monem,abdallaaliabdelrahma@company.com,0100000026,2022-06-01,10.0,4,3,Active,2026-05-01
+27,EMP027,Ayman Abbas El Ghamry Hasanein,aymanabbaselghamryha@company.com,0100000027,2022-06-01,11.0,4,2,Active,2026-05-01
+28,EMP028,Ahmed Maged Samir Mohamed Hamdy,ahmedmagedsamirmoham@company.com,0100000028,2022-06-01,12.0,4,2,Active,2026-05-01
+29,EMP029,Youssef Abd Alla Youssef Abd Alla,youssefabdallayousse@company.com,0100000029,2022-06-01,13.0,4,2,Active,2026-05-01
+30,EMP030,Mohamed Ahmed Abd El Maksoud Abd El Aal,emp030@company.com,0100000030,2023-01-01,14.0,5,6,Active,2026-05-01
+31,EMP031,Karim Ahmed Abd El Ghany Ahmed Hussein,emp031@company.com,0100000031,2023-01-01,14.0,5,6,Active,2026-05-01
+32,EMP032,Zeyad Mohamed AbdElAziz Ragab,emp032@company.com,0100000032,2023-01-01,15.0,5,6,Active,2026-05-01
+33,EMP033,Mohamed Galal Antar Salama,emp033@company.com,0100000033,2023-01-01,16.0,5,6,Active,2026-05-01
+34,EMP034,Mohamed Ahmed AbdElMaksoud,emp034@company.com,0100000034,2023-01-01,14.0,5,6,Active,2026-05-01
+35,EMP035,Amir Mohamed Ezzeldin Kassem,emp035@company.com,0100000035,2023-01-01,15.0,5,6,Active,2026-05-01
+36,EMP036,Ali Ali Attia Hasan Elizy,emp036@company.com,0100000036,2023-01-01,16.0,5,6,Active,2026-05-01
+37,EMP037,Ahmed Ibrahim ElSayed Attia,emp037@company.com,0100000037,2023-01-01,14.0,5,6,Active,2026-05-01
+38,EMP038,Mohamed Abd El Kader Mohamed Mahmoud,emp038@company.com,0100000038,2023-01-01,17.0,5,6,Active,2026-05-01
+39,EMP039,Hussein Khaled Ben El Walid Hussein,emp039@company.com,0100000039,2023-01-01,18.0,5,8,Active,2026-05-01
+40,EMP040,HossamElDin Ahya Abd El Zaher Ali,emp040@company.com,0100000040,2023-01-01,18.0,5,8,Active,2026-05-01
+41,EMP041,Hazem Ahmed Mohamed Serag,emp041@company.com,0100000041,2023-01-01,18.0,5,8,Active,2026-05-01
+42,EMP042,AbdElRahman Gaber Hasan,emp042@company.com,0100000042,2023-01-01,18.0,5,8,Active,2026-05-01
+43,EMP043,Marco Morshed Habeel,emp043@company.com,0100000043,2023-01-01,18.0,5,8,Active,2026-05-01
+44,EMP044,Marwan Taha Omar Sayed,emp044@company.com,0100000044,2023-01-01,18.0,5,8,Active,2026-05-01
+45,EMP045,Amir Said Amin,emp045@company.com,0100000045,2023-01-01,19.0,5,7,Active,2026-05-01
+46,EMP046,Mohamed Mohamed Khalil Abd El Hamid Mansour,emp046@company.com,0100000046,2023-01-01,20.0,5,7,Active,2026-05-01
+47,EMP047,Mahmoud El Sayed El Araby Mahmoud Ahmed,emp047@company.com,0100000047,2023-01-01,19.0,5,7,Active,2026-05-01
+48,EMP048,Ibrahim Abd El Fattah Ibrahim Sallam,emp048@company.com,0100000048,2023-01-01,20.0,5,7,Active,2026-05-01
+49,EMP049,Hussein Ibrahim Abdelmaksoud Darwish,emp049@company.com,0100000049,2023-01-01,19.0,5,7,Active,2026-05-01
+50,EMP050,Ahmed Hossam Mokhtar Ibrahim,emp050@company.com,0100000050,2023-01-01,20.0,5,7,Active,2026-05-01
+51,EMP051,Mai Maged Mahmoud Ismail,emp051@company.com,0100000051,2023-01-01,12.0,5,9,Active,2026-05-01
+52,EMP052,Mohamed Reda Ibrahim Gebril,emp052@company.com,0100000052,2023-01-01,17.0,5,10,Active,2026-05-01
+53,EMP053,Mohamed Khairy ElSayed,emp053@company.com,0100000053,2023-01-01,8.0,5,10,Active,2026-05-01
+54,EMP054,Mohamed Awad Ahmed ElSherbiny,emp054@company.com,0100000054,2023-01-01,21.0,5,10,Active,2026-05-01
+55,EMP055,Hasan Mohamed Hasan ElFar,emp055@company.com,0100000055,2023-01-01,17.0,5,10,Active,2026-05-01
+56,EMP056,Hamza Esmat Hamza Mohamed Hussein,emp056@company.com,0100000056,2023-01-01,8.0,5,10,Active,2026-05-01
+57,EMP057,Amir Mohamed Mohamed El Habashy,emp057@company.com,0100000057,2023-01-01,6.0,5,10,Active,2026-05-01
+58,EMP058,Ahmed Rabee Youssef El Tayyar,emp058@company.com,0100000058,2023-01-01,17.0,5,6,Active,2026-05-01
+59,EMP059,Ahmed Mohamed Ibrahim ElKhawalka,emp059@company.com,0100000059,2023-01-01,17.0,5,10,Active,2026-05-01
+60,EMP060,Ahmed Gamal Abd El Fattah El Essawy,emp060@company.com,0100000060,2023-01-01,21.0,5,10,Active,2026-05-01
+61,EMP061,Karim Ashraf Shehata Tawfik,emp061@company.com,0100000061,2023-01-01,22.0,5,9,Active,2026-05-01
+62,EMP062,Naglaa Sherif Mohamed,emp062@company.com,0100000062,2023-01-01,23.0,5,9,Active,2026-05-01
+63,EMP063,Eslam Wahid Mohamed El Sayed Ahmed Ghanayem,emp063@company.com,0100000063,2023-01-01,23.0,5,9,Active,2026-05-01
+64,EMP064,Dina Reda Hasan Mohamed,emp064@company.com,0100000064,2023-01-01,22.0,5,9,Active,2026-05-01
+65,EMP065,Enas Abd El Monein Ali Mohamed Ali,emp065@company.com,0100000065,2023-01-01,23.0,5,9,Active,2026-05-01
+66,EMP066,Mohamed Magdy Fahmy,emp066@company.com,0100000066,2023-01-01,22.0,5,9,Active,2026-05-01
+67,EMP067,Sara Gamal El Sayed Youssef,emp067@company.com,0100000067,2023-01-01,24.0,5,9,Active,2026-05-01
+68,EMP068,Rola Moutaz Hasan Mohamed Saad,emp068@company.com,0100000068,2023-01-01,22.0,5,9,Active,2026-05-01
+69,EMP069,Esraa Khaled Fawzy Taha,emp069@company.com,0100000069,2023-01-01,23.0,5,9,Active,2026-05-01
+70,EMP070,Donia Waleed Hassan Fouad,emp070@company.com,0100000070,2023-01-01,24.0,5,9,Active,2026-05-01
+71,EMP071,Walid Mohamed Hussein El Sayed Nabet,emp071@company.com,0100000071,2023-01-01,9.0,5,3,Active,2026-05-01
+72,EMP072,Mahmoud Ahmed Mahmoud AbdelAzim,emp072@company.com,0100000072,2023-01-01,9.0,5,3,Active,2026-05-01
+73,EMP073,Omar Ramadan Mohamed Ibrahim,emp073@company.com,0100000073,2023-01-01,9.0,5,3,Active,2026-05-01
+74,EMP074,Mourad Mohamed Soliman,emp074@company.com,0100000074,2023-01-01,9.0,5,3,Active,2026-05-01
+75,EMP075,Mohamed Fouad Mohamed ElSayed,emp075@company.com,0100000075,2023-01-01,9.0,5,3,Active,2026-05-01
+76,EMP076,AlaaElDin Mohamed Mahmoud Omar,emp076@company.com,0100000076,2023-01-01,9.0,5,3,Active,2026-05-01
+77,EMP077,Ahmed Ali AbdAlla,emp077@company.com,0100000077,2023-01-01,9.0,5,3,Active,2026-05-01
+78,EMP078,Omar Hisham Aly Mohamed,emp078@company.com,0100000078,2023-01-01,25.0,5,3,Active,2026-05-01
+79,EMP079,Khaled Abd El Rahman Kamal,emp079@company.com,0100000079,2023-01-01,25.0,5,3,Active,2026-05-01
+80,EMP080,Karim Mohamed Ali Mohamed,emp080@company.com,0100000080,2023-01-01,25.0,5,3,Active,2026-05-01
+81,EMP081,Ibrahim Maher Mahmoud Mohamed Shalaby,emp081@company.com,0100000081,2023-01-01,25.0,5,3,Active,2026-05-01
+82,EMP082,Amr Mohamed Abdel Ati Mohamed,emp082@company.com,0100000082,2023-01-01,25.0,5,3,Active,2026-05-01
+83,EMP083,Ahmed Mohamed Ahmed Mohamed Allam,emp083@company.com,0100000083,2023-01-01,26.0,5,3,Active,2026-05-01
+84,EMP084,Omar Khaled Refaat Salem Afify,emp084@company.com,0100000084,2023-01-01,26.0,5,3,Active,2026-05-01
+85,EMP085,Omar Abd El Azim Abd El Megeed,emp085@company.com,0100000085,2023-01-01,26.0,5,3,Active,2026-05-01
+86,EMP086,Mohamed Ashraf Essawy Salem,emp086@company.com,0100000086,2023-01-01,26.0,5,3,Active,2026-05-01
+87,EMP087,Ayman Mohamed Tolba,emp087@company.com,0100000087,2023-01-01,26.0,5,3,Active,2026-05-01
+88,EMP088,Mohamed Mahmoud Ashour,emp088@company.com,0100000088,2023-01-01,27.0,5,2,Active,2026-05-01
+89,EMP089,Akram Mohamed Hesham Abd El Monem Ibrahim Sallam,emp089@company.com,0100000089,2023-01-01,27.0,5,2,Active,2026-05-01
+90,EMP090,Ahmed Moussa Ibrahim El Anany,emp090@company.com,0100000090,2023-01-01,27.0,5,2,Active,2026-05-01
+91,EMP091,AbdelRahman Adel Mansour Radwan,emp091@company.com,0100000091,2023-01-01,27.0,5,2,Active,2026-05-01
+92,EMP092,Eslam Ali Mohy Zaki Youssef Ahmed,emp092@company.com,0100000092,2023-01-01,28.0,5,2,Active,2026-05-01
+93,EMP093,Wagdy Mohamed Ibrahim El Wakil,emp093@company.com,0100000093,2023-01-01,28.0,5,2,Active,2026-05-01
+94,EMP094,Mostafa Kamal Omar Sayed,emp094@company.com,0100000094,2023-01-01,29.0,5,2,Active,2026-05-01
+95,EMP095,Mohamed Khaled Hasan Gaber AbdElGhany,emp095@company.com,0100000095,2023-01-01,10.0,5,2,Active,2026-05-01
+96,EMP096,Ali Taha Ali Khalil,emp096@company.com,0100000096,2023-01-01,10.0,5,2,Active,2026-05-01
+97,EMP097,Ahmed Hani El Gazzar,emp097@company.com,0100000097,2023-01-01,28.0,5,2,Active,2026-05-01
+98,EMP098,Mohamed Abd Rabbo Farahat Mahmoud,emp098@company.com,0100000098,2023-01-01,27.0,5,2,Active,2026-05-01
+99,EMP099,Fouad AbdAlla AbdElRehim Mohamed,emp099@company.com,0100000099,2023-01-01,12.0,5,2,Active,2026-05-01
+100,EMP100,Ahmed Nasser Farouk Amin,emp100@company.com,0100000100,2023-01-01,27.0,5,2,Active,2026-05-01
+101,EMP101,Mohamed Yasser Mohamed,emp101@company.com,0100000101,2023-01-01,29.0,5,2,Active,2026-05-01
+102,EMP102,Mahmoud Said Abdel Moneim El Sawi,emp102@company.com,0100000102,2023-01-01,29.0,5,2,Active,2026-05-01
+103,EMP103,Amin Ramadan Amin,emp103@company.com,0100000103,2023-01-01,29.0,5,2,Active,2026-05-01
+104,EMP104,Mohamed Fouad Abdelhamid,emp104@company.com,0100000104,2023-01-01,29.0,5,2,Active,2026-05-01
