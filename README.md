@@ -43,7 +43,6 @@ Drive Finance Data Analysis/
 ├── requirements.txt
 ├── NOTES.md                           # Tools used and why
 ├── FINDINGS.md / FINDINGS.pdf         # Plain-language findings
-├── FUNCTIONS.md / FUNCTIONS.pdf       # Function reference
 ├── README.md
 ├── src/
 │   ├── load_data.py                   # CSV loading & typing
